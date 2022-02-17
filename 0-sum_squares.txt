@@ -1,0 +1,19 @@
+
+
+FUNCTION SquareSum(n):
+		int n:
+		n=(n * (n + 1) * (2 * n + 1)
+       RETURN n
+END FUNCTION 
+
+ 
+{
+In the main function
+     
+   print prompt "Input number"
+         
+   Take number from user
+  
+   Send the number to the SquareSum function and print
+   the result to the user   
+}
