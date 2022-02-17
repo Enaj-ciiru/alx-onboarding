@@ -1,0 +1,21 @@
+Read n
+function {Set sum to 0;
+			while(n >= 0)
+			Set sum to n + sum
+			return n
+
+end
+}
+
+
+{
+In the main function
+     
+   print prompt "Input number"
+         
+   Take the number from the user
+  
+   Send the number to the while function 
+   
+   Print the result to the user   
+}
